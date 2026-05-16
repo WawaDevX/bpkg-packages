@@ -1,3 +1,4 @@
+PkgName = "testpkg"
 Author = "WawaDev"
 Version = 1.0
 Desc = "A test package for BPKG"
